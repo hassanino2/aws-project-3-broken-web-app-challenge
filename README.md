@@ -27,12 +27,13 @@ In this challenge, I deployed a web application using a CloudFormation template 
 
 ## 🔍 Screenshots
 - ALB DNS success in browser
-<img width="1106" alt="Screenshot 2025-04-22 at 2 50 34 AM" src="https://github.com/user-attachments/assets/f2b5b485-ccd9-472d-ab8f-8e3e257c76f3" /> 
-<img width="1201" alt="healthytargets" src="https://github.com/user-attachments/assets/4397b9fb-096c-47bb-b0aa-9c764a6c0af5" />  
-<img width="1191" alt="routetable" src="https://github.com/user-attachments/assets/dd0d68f8-78a6-4abe-9139-017c16057bc0" />  
+<img width="1106" alt="Screenshot 2025-04-22 at 2 50 34 AM" src="https://github.com/user-attachments/assets/f2b5b485-ccd9-472d-ab8f-8e3e257c76f3" />
+- Healthy targets in Target Group
+<img width="1201" alt="healthytargets" src="https://github.com/user-attachments/assets/4397b9fb-096c-47bb-b0aa-9c764a6c0af5" />
+- Route Table with IGW  
+<img width="1191" alt="routetable" src="https://github.com/user-attachments/assets/dd0d68f8-78a6-4abe-9139-017c16057bc0" />
+- Security Groups showing HTTP access
 <img width="1171" alt="Screenshot 2025-04-22 at 2 51 51 AM" src="https://github.com/user-attachments/assets/80e4c930-9d28-4b95-910d-0c8e3408dfcc" />
 
 ## ✅ Outcome
 The application successfully loaded through the ALB DNS name after fixing all issues. This challenge helped me practice real-world troubleshooting in a cloud environment.
-
-
